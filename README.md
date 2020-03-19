@@ -21,6 +21,9 @@ Three group members: Devang Aggarwal, Luis Chelala and Usman Ahmed performed EDA
 
 * Created a Scatter plot which showed the relationship between Revenue Change and Market Value.
 * Created a graph which showed the relationship between Year and Change in Rank
+* Helped data clean and collect dataset for project
+* Created predictions for on number of employees of company
+* Created predictions for market value
 
 # Usman
 
