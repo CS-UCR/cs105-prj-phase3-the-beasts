@@ -1,4 +1,4 @@
-# CS 105 - Project Phase 2
+# CS 105 - Project Phase 3
 
 
 # Datasets
@@ -30,11 +30,11 @@ Three group members: Devang Aggarwal, Luis Chelala and Usman Ahmed performed EDA
 # Running our code
 
 * Open up hub.cs.ucr.edu or any other environment that allows Jupyter Notebooks.
-* Download our python code (cs105_phase2.ipynb) and upload it into hub.cs.ucr.edu or anything equivalent.
+* Download our python code (cs105_phase3.ipynb) and upload it into hub.cs.ucr.edu or anything equivalent.
 * Download our CSV file (CS 105 project.csv) and upload it into hub.cs.ucr.edu or anything equivalent.
 * Go on our python file and run all the cells. Start from the top and make your way down.
 
 # Additional Info
 
-For best view of our Jupyter Notebook, look at the cs105_phase2.pdf file. This shows our code and gives in depth visualization.
+For best view of our Jupyter Notebook, look at the cs105_phase3.pdf file. This shows our code and gives in depth visualization.
 
