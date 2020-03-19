@@ -31,6 +31,8 @@ Three group members: Devang Aggarwal, Luis Chelala and Usman Ahmed performed EDA
 * Created a graph which showed the relationship between Company Name and Profits and Assets.
 * Developed a linear regression model that determines the rank of a company based off revenue change, profit change, and assets. 
 * Created a bar graph based on Assets and Profits by dispalying both attributes by company name.
+* Created an ashen model which predicts rank through revenue change. 
+* Created an ashen model which predicts rank through profit change. 
 
 # Running our code
 
