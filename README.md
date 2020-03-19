@@ -14,6 +14,8 @@ Three group members: Devang Aggarwal, Luis Chelala and Usman Ahmed performed EDA
 * Created a Parallel Coordinates Plot which showed the relationship between the top 10 companies and the other categorical columns.
 * Created a Boxplot which showed the relationship between the top 4 companies and the assets ($millions).
 * Created a Scatter plot which showed the relationship between Profits and Revenues.
+* Created a linear regression model for Revenue & Rank, Profit & Rank, and Assets & Rank.
+* Predicted Companies rank based off of Revenue, Profit and Assets through training, validating and testing.
 
 # Luis
 
